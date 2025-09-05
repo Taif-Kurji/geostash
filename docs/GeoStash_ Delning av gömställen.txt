@@ -1,0 +1,20 @@
+﻿GeoStash: Delning av gömställen
+Appens syfte och funktion
+
+
+GeoStash är en mobilapp designad för att låta användare logga in, skapa och hantera grupper samt dela platser på en karta. Appens syfte är att skapa en rolig och interaktiv upplevelse för att hitta och dela "gömställen" eller "skatter" som användare har lämnat. Användare kan se gömställena direkt på en karta och navigera till dem. Det är en modern digital skattjakt som lämpar sig för vänner, familjer eller communities som gillar utmaningar och äventyr.
+Användargrupp
+
+Den primära användargruppen är personer som är intresserade av geocacheing, skattjakt och friluftsaktiviteter. Den är också lämplig för grupper av vänner som vill skapa sina egna privata utmaningar eller familjer som vill ha en rolig aktivitet utomhus. Användarna förväntas vara bekväma med mobilteknik och GPS-baserade appar.
+Appens huvudsakliga funktion
+
+Appens huvudsakliga funktion är att tillhandahålla en interaktiv karta där användare kan se gömställen som har skapats av andra medlemmar i deras grupper. Användare kan "släppa en nål" på kartan för att markera en ny plats och lägga till detaljer som beskrivning, bilder och tips för att hitta gömstället. Genom att integrera detta i grupper kan användare styra vem som får se deras gömställen, vilket gör appen både säker och flexibel för olika typer av äventyr.
+
+Huvudsakliga funktioner 
+* Användarautentisering: Säkert inloggnings- och registreringssystem.
+* Grupphantering: Skapa och gå med i privata eller offentliga grupper.
+* Interaktiv karta: En dynamisk karta som visar gömställen.
+* Platsmarkering: Möjlighet att "släppa en nål" för att markera ett nytt gömställe.
+* Profil: Användarprofil med statistik över hittade och skapade gömställen.
+* Stöd för mörkt läge (Dark Mode): Användare kan växla mellan ljust och mörkt läge för en bättre visuell upplevelse.
+* Flerspråksstöd: Appen identifierar användarens språkinställningar och stöder minst svenska och engelska.

@@ -1,0 +1,29 @@
+﻿Konkurrensanalys: En djupdykning i Geocaching-appen
+
+
+Måste-krav
+Dessa krav är grundläggande för en platsbaserad app med skattjakt och sociala inslag. En app som inte har dessa funktioner skulle inte kunna konkurera  i samma kategori.
+1. Som en ny användare vill jag snabbt kunna skapa ett konto för att komma igång med appen.
+   *    *  Autentisering och kontoskapande är en grundläggande del av en fleranvändarapp.
+2. Som en användare vill jag kunna se en lista över gömställen i min närhet för att veta vart jag ska bege mig.
+   * Måste-krav. Att kunna se vad som finns i närheten är hela poängen med en geocaching-app.
+3. Som en användare vill jag kunna navigera till gömställen på en karta för att lättare hitta dem.
+   *  Navigeringsfältet har en "Karta"-flik, vilket visar att appens kärna är centrerad kring en kartvy. Kartfunktionen är det viktigaste funktionen  för en platsbaserad app.
+4. Som en användare vill jag kunna gömma mina egna skatter för att bidra till gemenskapen.
+   * För att bygga en hållbar plattform måste användare kunna bidra med innehåll.
+5. Som en användare vill jag kunna logga mina fynd för att hålla koll på hur många skatter jag hittat.
+   * Att spara och visa användarens framsteg är avgörande för att behålla motivationen.
+
+   
+Egna-krav
+Dessa krav är specialiserade funktioner som skiljer Geocaching-appen från enklare platstjänster. De kan fungera som grund för en helt ny, nischad app.
+6. Som en användare vill jag kunna chatta med andra i appen för att kommunicera om fynd och tips.
+   * Detta är ett Eget-krav. En enklare app skulle kunna hänvisa till externa kommunikationsplattformar som Discord eller WhatsApp.
+7. Som en användare vill jag kunna se statistik över mina fynd för att visualisera mina framsteg.
+   * Statistik är en funktion som ger mervärde men inte är nödvändig för den grundläggande spelupplevelsen.
+8. Som en användare vill jag kunna samla digitala skatter och troféer för att belönas för mina prestationer.
+   * UI-analys: Under rubriken "Skatter" finns en sektion för digitala skatter, och under "Souvenirer" finns en för profil konst man kan tjäna. Detta är en gamification-mekanism som ökar användarens engagemang. Det är dock inte nödvändigt för appens funktionalitet 
+9. Som en användare vill jag få tillgång till premiumfunktioner för att få ut mer av appen.
+   * Att tjäna pengar på en app är ett krav för en kommersiell produkt, men det är inte nödvändigt för en grundläggande appidé.
+10. Som en användare vill jag kunna se mina utmärkelser för att visa upp mina bedrifter.
+   * UI-analys: Profilsidan har en sektion för utmärkelser "Achievements". Denna funktion skapar en känsla av tävlan och prestation, vilket är bra för att behålla användare. Även om det bidrar till motivationen är det inte en grundläggande funktion för att hitta gömställen.
