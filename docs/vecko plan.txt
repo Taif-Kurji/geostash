@@ -1,0 +1,70 @@
+﻿Vecka 42 – Auth & konton
+Funktionella krav: Enkel Firebase‑inloggning (1 p), kontohantering (1 p).
+
+
+Att göra: Slutför e‑postinloggning via Firebase, bygg profilsida som sparar användarens statistik i Firestore. Utöver det skall jag skriv 2 unit‑tester påbörjar detta för att nå 50 % täckning.
+
+
+Vecka 43 – Karta & sensor
+Funktionella krav: Google Maps-integration (2 p), sensor (GPS) (1 p).
+
+
+Att göra: Visa användarens position på kartan med rörelse GPS-stream, visa gömställen på kartan, bygg meningsfull interaktion genom  markörinfo.
+
+
+Vecka 44 – Realtidsdelning
+Funktionella krav: Realtidsuppdatering från Firestore (1 p).
+
+
+Att göra: Implementera realtidsuppdatering för nya gömställen så kartan uppdateras live. Samt fortsätta unit‑testning för att nå ≥50 %.
+
+
+Vecka 45 – UX-inställningar
+Funktionella krav: UX-inställning (dark mode) (1 p).
+
+
+Att göra: Lägg till t.ex. dark/light mode knapp som sparas per användare; säkerställ att kartan och övriga vyer byter tema korrekt.
+
+
+Vecka 46 – Multispråk & tester
+Funktionella krav: Multispråkstöd (sv/en) (1 p), slutföra unit‑testing kravet (1 p).
+
+
+Att göra: Integrera språk knapp för att byta appens språk, kontrollera att allt relvant byter språk. färdigställ två unit‑tester med ≥50 % line coverage.
+
+
+Vecka 47 – kodkontroll
+
+
+Att göra:testa  alla krav (auth, karta, realtid, sensor, dark mode, språk), fixa buggar och påbörja generell finslipning
+
+
+Vecka 48 – finslipning & användarguide
+
+
+Att göra: Skriv användarguide och ta screenshots som  demonstrerar varje krav.
+Kontrollera att appen funkar offline förbered screencastmanus.
+
+
+Vecka 49 – Demo‑förberedelse
+
+
+Att göra: Förbereda för demo och uppdatera README med slutlig kravlista + betygsambition.
+
+
+
+
+
+
+
+
+Vecka 50 – Sluttest
+
+
+Att göra: sista kontroll över arbetet se till att allt är klart,  verifiera att testtäckning och krav uppfylls, skapa release build.
+
+
+Vecka 51 – Slutinlämning
+
+
+Att göra: slutdemo och inlämning av kod och dokumentation.
