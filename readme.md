@@ -7,16 +7,10 @@ GeoStash är en mobilapp designad för att låta användare logga in, skapa och 
 Användargrupp
 
 
-Huvudsakliga funktioner 
-* Användarautentisering: Säkert inloggnings och registreringssystem.
-* Grupphantering: Skapa och gå med i privata eller offentliga grupper.
-* Interaktiv karta: En dynamisk karta som visar gömställen.
-* Platsmarkering: Möjlighet att "släppa en nål" för att markera ett nytt gömställe.
-* Profil: Användarprofil med statistik över hittade och skapade gömställen.
-* Stöd för mörkt läge (Dark Mode): Användare kan växla mellan ljust och mörkt läge för en bättre visuell upplevelse.
-* Flerspråksstöd: Appen identifierar användarens språkinställningar och stöder minst svenska och engelska.
 
+--------------
 slut screncast ligger i /docs/slutcast
+--------------
 
 Betyg 4
 Tekniska krav 
@@ -29,8 +23,6 @@ Google-inloggning (1p)
 Kontohantering över tid (memberships/finds) (1p)
 Realtidsuppdatering via Firestore-snapshots (1p)
 Unit tests av två funktioner med >50% coverage (1p)
-
-
 
 Entreprenöriella krav 
 
