@@ -18,3 +18,26 @@ Huvudsakliga funktioner
 * Profil: Användarprofil med statistik över hittade och skapade gömställen.
 * Stöd för mörkt läge (Dark Mode): Användare kan växla mellan ljust och mörkt läge för en bättre visuell upplevelse.
 * Flerspråksstöd: Appen identifierar användarens språkinställningar och stöder minst svenska och engelska.
+
+slut screncast ligger i /docs/slutcast
+
+Betyg 4
+Tekniska krav 
+
+Provider för state (1p)
+GPS-sensor (1p)
+Forms + validering (2p)
+Firebase-inloggning e‑post/lösenord (1p)
+Google-inloggning (1p)
+Kontohantering över tid (memberships/finds) (1p)
+Realtidsuppdatering via Firestore-snapshots (1p)
+Unit tests av två funktioner med >50% coverage (1p)
+
+
+
+Entreprenöriella krav 
+
+Firestore som databas (2p)
+Google Maps meningsfullt (2p)
+Dark mode (1p)
+Multispråk (sv/en) (1p)
