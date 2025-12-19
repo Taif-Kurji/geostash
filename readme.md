@@ -14,7 +14,7 @@ slut screncast ligger i /docs/slutcast
 
 Betyg 4
 Tekniska krav 
-
+--------------
 Provider för state (1p)
 
 GPS-sensor (1p)
@@ -32,6 +32,7 @@ Realtidsuppdatering via Firestore-snapshots (1p)
 Unit tests av två funktioner med >50% coverage (1p)
 
 Entreprenöriella krav 
+--------------
 Firestore som databas (2p)
 
 Google Maps meningsfullt (2p)
