@@ -1,4 +1,4 @@
 <resources>
-    <string name="google_maps_api_key">***REMOVED***</string>
-    <string name="default_web_client_id">***REMOVED***</string>
+    <string name="google_maps_api_key">YOUR_GOOGLE_MAPS_API_KEY</string>
+    <string name="default_web_client_id">YOUR_WEB_CLIENT_ID.apps.googleusercontent.com</string>
 </resources>
